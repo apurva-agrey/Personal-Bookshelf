@@ -1,0 +1,11 @@
+.bookshelf-page {
+    padding: 20px;
+  }
+  
+  .book-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
